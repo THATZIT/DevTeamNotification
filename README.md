@@ -14,6 +14,8 @@ Label은 기존 블루믹스 쓰던것중 일부만 사용하도록 하겠습니
 - medium
 - high
 - new
+- in progress
+- done
 - etc(default label)
 
 작업에 대한 할당 및 가져가는것은 assignee설정하시면 됩니다.
